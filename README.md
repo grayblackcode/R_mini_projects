@@ -1,3 +1,3 @@
 # R_mini_projects
 
-Small school projects in R
+Small school projects and case studies in R
